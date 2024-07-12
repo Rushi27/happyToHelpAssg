@@ -1,3 +1,6 @@
+# Output window:-
+![playerCard](https://github.com/user-attachments/assets/c6b75430-06d4-4cfc-99fa-e43cd164fe4f)
+
 # Assignment Name
 
 Develop a React Component:
